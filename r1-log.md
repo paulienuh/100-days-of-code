@@ -19,3 +19,9 @@ I also did some editing on my website: http://paulinenarvas.com
 This was a great way to get in the coding grind! Excited for the days to come! 😊
 
 ### R1D2
+Today's coding hour actually lasted for around four hours 😅 I've been working on a website for the University of Sheffield's Green Impact group, I had a mock up idea that I coded in HTML which took a while to be approved. 
+
+I've been trying to convert the HTML website I made to Wordpress for a while but things slowed down my ability to like wrong passwords for cpanel, working with code 9-5 for 3 weeks demotivated me to code after work etc. But I finally pushed it all out today which is great. It's definitley a burden off my chest! 
+
+HTML mock-up here: https://github.com/paulienuh/University/tree/master/Green-Impact
+Completed WP project here: http://www.greenimpact.group.shef.ac.uk/wordpress/
