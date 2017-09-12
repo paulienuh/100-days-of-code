@@ -25,3 +25,14 @@ I've been trying to convert the HTML website I made to Wordpress for a while but
 
 HTML mock-up here: https://github.com/paulienuh/University/tree/master/Green-Impact
 Completed WP project here: http://www.greenimpact.group.shef.ac.uk/wordpress/
+
+### R1D3
+Continued my freeCodeCamp front-end development course. Things I learned:
+
+<li>Some bootstrap classes I didn't know existed like <code>well</code> - I always find it cool finding out more about bootstrap 😊</li>
+<li>Practised some jQuery - it's actually quite simple. I never really played around with it until today. </li>
+<strong>Notes:</strong>
+<li>bling bling bling ➡️ <code>$</code></li>
+<li>Change CSS using <code>.css</code></li>
+<li>Add CSS class using <code>.addClass</code></li>
+<li>Remove CSS class using <code>.removeClass</code></li>
