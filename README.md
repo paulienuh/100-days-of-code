@@ -6,7 +6,8 @@ Read my log for information on my progress!
 <li> To understand and get better Javascript and use knowledge somewhere on my blog or other projects </li>
 <li> Get better at front-end dev </li>
 <li>Write cleaner code </li>
-<li>Practise coding everyday for best practises etc</li>
+<li>Practise coding everyday for best practises etc.</li>
+<li>Make GitHub greener 💚</li>
 
 # Projects
 Check out ➡️ http://paulinenarvas.com/
