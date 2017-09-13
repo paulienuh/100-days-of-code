@@ -52,3 +52,5 @@ Some notes on jQuery:
 <li> You can target parent's CSS using <code>.parent().css</code></li>
 <li> You can target child elements using: <code>.children</code></li>
 <li> You can target specific child elements <code>.target:nth-child(n)</code></li>
+
+Also just begun Javascript with them. 😊
