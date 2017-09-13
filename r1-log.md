@@ -36,3 +36,19 @@ Continued my freeCodeCamp front-end development course. Things I learned:
 <li>Change CSS using <code>.css</code></li>
 <li>Add CSS class using <code>.addClass</code></li>
 <li>Remove CSS class using <code>.removeClass</code></li>
+
+### R1D4
+Continued freeCodeCamp and completed the first half of it: basics of HTML, CSS and jQuery. I found jQuery quite easy to pick up and actually was surprised by how easy it actually is!
+
+I also set-up a CodePen account and became familiar with the interface a bit more. I'll definitley be using it more often to showcase some work/test my code.
+
+Some notes on jQuery:
+<li> You can remove with jQuery: <code>removeClass</code></li>
+<li> You can change CSS: <code>.css</code></li>
+<li> You can change the HTML: <code>.html</code></li>
+<li> You can remove something entirely: <code>.remove</code></li>
+<li> You can move elements using: <code>.amendTo</code></li>
+<li> You can clone elements using <code>.clone</code></li>
+<li> You can target parent's CSS using <code>.parent().css</code></li>
+<li> You can target child elements using: <code>.children</code></li>
+<li> You can target specific child elements <code>.target:nth-child(n)</code></li>
