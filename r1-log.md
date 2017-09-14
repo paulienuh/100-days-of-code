@@ -54,3 +54,13 @@ Some notes on jQuery:
 <li> You can target specific child elements <code>.target:nth-child(n)</code></li>
 
 Also just begun Javascript with them. 😊
+
+## R1D5
+Working through freeCodeCamp's Javascript course - so far, so good! I love going back to basics and working my way up, my reading of YDKJ is coming in handy too! 😊 Topics covered:
+
+<li> Variables</li>
+<li>Strings</li>
+<li>Maths</li>
+<li>I managed to convert the temperature celsius to fahrenheit! Woah, JS is so cool? </li>
+<li> How to <code>"escape"</code> in a string e.g. <code>\n</code> = new line and double quotation: <code>\"doublesss\"</code></li>
+
