@@ -64,3 +64,9 @@ Working through freeCodeCamp's Javascript course - so far, so good! I love going
 <li>I managed to convert the temperature celsius to fahrenheit! Woah, JS is so cool? </li>
 <li> How to <code>"escape"</code> in a string e.g. <code>\n</code> = new line and double quotation: <code>\"doublesss\"</code></li>
 
+## R1D6
+Working through freeCodeCamp's Javascript course. Covered:
+<li> Strings</li>
+<li>Arrays - nested arrays etc.</li>
+<li>Completed the "strings" JS challenge</li>
+
