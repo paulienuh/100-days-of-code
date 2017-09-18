@@ -70,3 +70,9 @@ Working through freeCodeCamp's Javascript course. Covered:
 <li>Arrays - nested arrays etc.</li>
 <li>Completed the "strings" JS challenge</li>
 
+## R1D7
+Working through freeCodeCamp's Javascript course. Covered:
+<li>Array indexing</li>
+<li><code>.push()</code></li>
+<li><code>.pull()</code></li>
+
