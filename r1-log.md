@@ -76,3 +76,11 @@ Working through freeCodeCamp's Javascript course. Covered:
 <li><code>.push()</code></li>
 <li><code>.pull()</code></li>
 
+##R1D8
+Working through freeCodeCamp's Javascript course again! Covered:
+<li>Arrays - <code>.shift()</code>,<code>.unshift()</code>,<code>.pop()</code></li>
+<li>Functions</li>
+<li>Parameters</li>
+
+Things are getting a little confusing! But I can't wait to learn more 😊
+
