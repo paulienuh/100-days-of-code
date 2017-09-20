@@ -84,3 +84,5 @@ Working through freeCodeCamp's Javascript course again! Covered:
 
 Things are getting a little confusing! But I can't wait to learn more 😊
 
+## R1D9 
+Continued with freeCodeCamp's JS course. I didn't code for a whole hour but got to grips with functions and scopes!
