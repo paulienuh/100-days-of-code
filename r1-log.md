@@ -86,3 +86,10 @@ Things are getting a little confusing! But I can't wait to learn more 😊
 
 ## R1D9 
 Continued with freeCodeCamp's JS course. I didn't code for a whole hour but got to grips with functions and scopes!
+
+## R1D10 
+More JS:
+<li>Operators</li> 
+<li><code>If</code>,<code>return</code></li>
+<li>Boolean</li>
+
