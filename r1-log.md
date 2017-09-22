@@ -93,3 +93,8 @@ More JS:
 <li><code>If</code>,<code>return</code></li>
 <li>Boolean</li>
 
+## R1D11
+Even more JS!
+<li> Completed Comparison Operators + Logical Operators - <code> &&</code> and <code>||</code></li>
+  <li>Else statements</li>
+  <li>Else If statements</li>
