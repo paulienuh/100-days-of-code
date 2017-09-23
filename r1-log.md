@@ -98,3 +98,8 @@ Even more JS!
 <li> Completed Comparison Operators + Logical Operators - <code> &&</code> and <code>||</code></li>
   <li>Else statements</li>
   <li>Else If statements</li>
+  
+  ## R1D12
+  Did some cleaning up of my blog's WP theme code: http://pawlean.com. Including...
+  <li>Shortening of some code</li>
+  <li>Re-designing Archives page</li>
