@@ -103,3 +103,7 @@ Even more JS!
   Did some cleaning up of my blog's WP theme code: http://pawlean.com. Including...
   <li>Shortening of some code</li>
   <li>Re-designing Archives page</li>
+  
+  ## R1D13 
+  I took a break from the challenge because of University starting again and needing some time to adjust. I've decided to keep going when I can make time!
+  Today I did some tweaking of my blog's theme pawlean.com - cutting CSS to shorter, more readable chunks - hopefully easier to read. Added an author name on each post and cleaned up Archives page coding of categories as well as editing the search function. 
