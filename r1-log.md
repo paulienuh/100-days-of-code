@@ -109,4 +109,4 @@ Even more JS!
   Today I did some tweaking of my blog's theme pawlean.com - cutting CSS to shorter, more readable chunks - hopefully easier to read. Added an author name on each post and cleaned up Archives page coding of categories as well as editing the search function. 
   
   ## R1D14
-  Updated my online portfolio!
+  Updated my online portfolio: http://paulinenarvas.com/
